@@ -1,4 +1,7 @@
-**/*node_modules
-**/*dist
-**/*__MACOSX
-**/*.DS_Store
+node_modules
+dist
+__MACOSX
+.DS_Store
+client
+test.ts
+.vscode

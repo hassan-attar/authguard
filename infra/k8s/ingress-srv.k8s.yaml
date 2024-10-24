@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: coordinagent.com
+    - host: dev-server.com
       http:
         paths:
           - path: /api/accounts/?(.*)
